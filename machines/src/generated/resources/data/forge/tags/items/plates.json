@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "#examplemod:plates/gold",
+    "#examplemod:plates/iron",
+    "#examplemod:plates/bronze",
+    "#examplemod:plates/tin",
+    "#examplemod:plates/copper",
+    "#examplemod:plates/lead",
+    "#examplemod:plates/silver"
+  ]
+}

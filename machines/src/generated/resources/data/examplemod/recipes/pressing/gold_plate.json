@@ -1,0 +1,13 @@
+{
+  "type": "examplemod:pressing",
+  "process_time": 200,
+  "ingredient": {
+    "value": {
+      "tag": "forge:ingots/gold"
+    },
+    "count": 1
+  },
+  "result": {
+    "item": "examplemod:gold_plate"
+  }
+}

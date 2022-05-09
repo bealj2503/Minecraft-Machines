@@ -1,0 +1,22 @@
+{
+  "type": "examplemod:alloy",
+  "process_time": 300,
+  "ingredients": [
+    {
+      "value": {
+        "tag": "forge:ingots/copper"
+      },
+      "count": 3
+    },
+    {
+      "value": {
+        "tag": "forge:ingots/tin"
+      },
+      "count": 1
+    }
+  ],
+  "result": {
+    "item": "examplemod:bronze_ingot",
+    "count": 4
+  }
+}

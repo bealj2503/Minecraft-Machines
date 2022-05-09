@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "side": "examplemod:block/solar_generator_side",
+    "front": "examplemod:block/solar_generator_side",
+    "bottom": "examplemod:block/solar_generator_bottom",
+    "top": "examplemod:block/solar_generator_top"
+  }
+}

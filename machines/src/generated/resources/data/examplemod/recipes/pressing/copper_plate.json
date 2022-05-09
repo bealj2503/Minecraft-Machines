@@ -1,0 +1,13 @@
+{
+  "type": "examplemod:pressing",
+  "process_time": 200,
+  "ingredient": {
+    "value": {
+      "tag": "forge:ingots/copper"
+    },
+    "count": 1
+  },
+  "result": {
+    "item": "examplemod:copper_plate"
+  }
+}
