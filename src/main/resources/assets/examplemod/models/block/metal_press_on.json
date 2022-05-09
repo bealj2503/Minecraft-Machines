@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable_with_bottom",
+  "textures": {
+    "side": "examplemod:block/metal_press_side",
+    "front": "examplemod:block/metal_press_front_on",
+    "bottom": "examplemod:block/metal_press_bottom",
+    "top": "examplemod:block/metal_press_top_on"
+  }
+}

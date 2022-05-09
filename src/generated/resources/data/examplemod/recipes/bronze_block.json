@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "examplemod:bronze_ingot"
+    }
+  },
+  "result": {
+    "item": "examplemod:bronze_block"
+  }
+}
